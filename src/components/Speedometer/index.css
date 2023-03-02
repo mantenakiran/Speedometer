@@ -1,0 +1,44 @@
+.container {
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: #000000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.heading {
+  color: #cbd5e1;
+}
+.head {
+  color: #ffffff;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 400px;
+}
+.image {
+  height: 250px;
+  width: 540px;
+  background-size: cover;
+}
+.button {
+  height: 30px;
+  width: 100px;
+  font-size: 10px;
+  background-color: #007bff;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 5px;
+  margin: 20px;
+}
+.button1 {
+  background-color: transparent;
+  color: white;
+  border-width: 1px;
+  border-color: white;
+}
+.para {
+  color: #94a3b8;
+}
